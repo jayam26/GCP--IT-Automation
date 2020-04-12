@@ -1,2 +1,1 @@
-# GCP--IT-Automation
-Google-Python-Automation- Exercises
+I am editing the README file. Adding some more details about the projecr description.
